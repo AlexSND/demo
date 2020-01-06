@@ -1,7 +1,7 @@
 {
     "products": [
         {
-            "id": 01,
+            "id": 1,
             "artist": "Dub Phizix Feat Skittles",
             "title": "I'm A Creator / Happy 5",
             "catnumber": "EXIT043",
@@ -9,7 +9,7 @@
             "price": 16.94
         },
         {
-            "id": 02,
+            "id": 2,
             "artist": "Data",
             "title": "Endgame / Dissent",
             "catnumber": "HZN054",
@@ -17,7 +17,7 @@
             "price": 3.31
         },
         {
-            "id": 03,
+            "id": 3,
             "artist": "Dub Phizix & Skeptical",
             "title": "Run It Like The President",
             "catnumber": "NZ018",
@@ -25,7 +25,7 @@
             "price": 14.51
         },
         {
-            "id": 04,
+            "id": 4,
             "artist": "SpectraSoul",
             "title": "Lost Disciple / Reminiscence",
             "catnumber": "SHA042",
@@ -33,7 +33,7 @@
             "price": 10.23
         },
         {
-            "id": 05,
+            "id": 5,
             "artist": "Skeptical",
             "title": "Blue Eyes EP",
             "catnumber": "RECIPE024",
@@ -41,7 +41,7 @@
             "price": 26.43
         },
         {
-            "id": 06,
+            "id": 6,
             "artist": "Various Artists",
             "title": "Inception EP",
             "catnumber": "HWARE17",
@@ -49,7 +49,7 @@
             "price": 18.11
         },
         {
-            "id": 07,
+            "id": 7,
             "artist": "Zero T & Ulterior Motive",
             "title": "Breach / Harms Way",
             "catnumber": "SUBTITLESUK003",
@@ -57,7 +57,7 @@
             "price": 5.93
         },
         {
-            "id": 08,
+            "id": 8,
             "artist": "Icicle",
             "title": "Dreadnaught / Arrows",
             "catnumber": "SHA040",
