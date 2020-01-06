@@ -1,14 +1,68 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "products": [
+        {
+            "id": 01,
+            "artist": "Dub Phizix Feat Skittles",
+            "title": "I'm A Creator / Happy 5",
+            "catnumber": "EXIT043",
+            "imageUrl": "assets/exit043.jpg",
+            "price": 16.94
+        },
+        {
+            "id": 02,
+            "artist": "Data",
+            "title": "Endgame / Dissent",
+            "catnumber": "HZN054",
+            "imageUrl": "assets/hzn054.jpg",
+            "price": 3.31
+        },
+        {
+            "id": 03,
+            "artist": "Dub Phizix & Skeptical",
+            "title": "Run It Like The President",
+            "catnumber": "NZ018",
+            "imageUrl": "assets/hz018.jpg",
+            "price": 14.51
+        },
+        {
+            "id": 04,
+            "artist": "SpectraSoul",
+            "title": "Lost Disciple / Reminiscence",
+            "catnumber": "SHA042",
+            "imageUrl": "assets/sha042.jpg",
+            "price": 10.23
+        },
+        {
+            "id": 05,
+            "artist": "Skeptical",
+            "title": "Blue Eyes EP",
+            "catnumber": "RECIPE024",
+            "imageUrl": "assets/recipe024.jpg",
+            "price": 26.43
+        },
+        {
+            "id": 06,
+            "artist": "Various Artists",
+            "title": "Inception EP",
+            "catnumber": "HWARE17",
+            "imageUrl": "assets/hware17.jpg",
+            "price": 18.11
+        },
+        {
+            "id": 07,
+            "artist": "Zero T & Ulterior Motive",
+            "title": "Breach / Harms Way",
+            "catnumber": "SUBTITLESUK003",
+            "imageUrl": "assets/subtitlesuk003.jpg",
+            "price": 5.93
+        },
+        {
+            "id": 08,
+            "artist": "Icicle",
+            "title": "Dreadnaught / Arrows",
+            "catnumber": "SHA040",
+            "imageUrl": "assets/sha040.jpg",
+            "price": 24.94
+        }
+    ]
 }
